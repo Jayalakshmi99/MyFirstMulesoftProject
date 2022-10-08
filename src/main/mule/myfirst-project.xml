@@ -21,5 +21,6 @@ output application/jsom
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
+		<logger level="INFO" doc:name="Logger" doc:id="bc3b81c5-d244-4264-8720-dee28b2abf54" message="new dummy Logger is added"/>
 	</flow>
 </mule>
